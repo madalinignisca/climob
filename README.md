@@ -1,11 +1,25 @@
-# CLIMOB
+# Smart Estate Agent
 
-Solutie completa pentru agentii imobiliare.
+Jump to language:
+* English
+* Romana
 
-* Listari
+## English
+
+Complete web application solution for estate agents.
+
+* Listings
 * CRM
 * Website
 
-Mai multe detaill in curand.
+More details soon.
 
-**CLIMOB** vine de la Cod Liber Imobiliare
+## Romana
+
+Solutie aplicatie web completa pentru agenti imobiliari.
+
+* Listari
+* CRM (manager relatii clienti)
+* Website
+
+Mai multe detaill in curand.
